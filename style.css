@@ -230,7 +230,6 @@ main {
     flex-wrap: nowrap;
     justify-content: space-between;
     flex-direction: row;
-    margin-top: 23%;
 }
 
 .send-message-bar i {
